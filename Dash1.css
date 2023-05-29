@@ -1,0 +1,14 @@
+Css File
+
+body{
+    border: 2px solid black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 4px;
+}
+h3{
+    text-align: center;
+    color: rgb(3, 18, 19);
+}
+.container-fluid{
+    border-radius: 10px;
+}
